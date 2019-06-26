@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Blogger 解決預覽模式下無法點擊的問題
 // @author       張睿玹
-// @downloadURL https://www.onlinevideoconverter.com/assets/javascript/ovc.user.js
+// @downloadURL  https://github.com/dwcoop/Blogger_FixPreview/raw/master/Blogge_FixPreview-zh-TW.user.js
 // @match        https://*.blogspot.com/b/post-preview?*
 // @grant        none
 // ==/UserScript==
